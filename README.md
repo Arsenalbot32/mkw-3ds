@@ -14,7 +14,7 @@ Hi everyone, let's get this game on 3DS after the original port got deleted and 
 >
 > Then Extract the ZIP file and get the **build** folder.
 > 
-> When you have the **build.zip** file extract it and theb go in *release > sd-card > 3ds* and copy the **mkw-3ds** folder into the 3ds folder on your SD card.
+> When you have the **build.zip** file extract it and then go in *release > sd-card > 3ds* and copy the **mkw-3ds** folder into the 3ds folder on your SD card.
 > When done go back to the **build** folder and go back to **release** and cope the *mkw-3ds.cia* file to the root of your sd card.
 
 ## Final step
