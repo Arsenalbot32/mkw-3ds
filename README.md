@@ -6,7 +6,12 @@ Hi everyone, let's get this game on 3DS after the original port got deleted and 
 > 1. **A jailbroken 3DS** (If you don't have one go to [3ds.hacks.guide](https://3ds.hacks.guide/get-started.html) .
 > 2. **A computer that support you SD or micro sd card.**
 > 
-> First step to get this game on 3DS you need to get the resource files from the code above. Then Extract the ZIP file and get the **build** folder.
+> First step to get this game on 3DS you need to get the resource files from these link :
+> 1. https://drive.google.com/file/d/1KeVDpr7s7EJARDvHwaQAETQ9BDNCk03h/view?usp=sharing
+> 2. https://drive.google.com/file/d/1DRtz0M7glbOa_F1vTJxCGNOg7PRbGPkI/view?usp=sharing
+> 3. https://drive.google.com/file/d/1CbpfRDrUBmo5xa2E0AbLrSgjxcaxXe0V/view?usp=sharing
+> 4. https://drive.google.com/file/d/1E9ty2fwLjqwXx_33HLcTJfxEnq1unqUQ/view?usp=sharing
+> Then Extract the ZIP file and get the **build** folder.
 > 
 > When you have the **build.zip** file extract it and theb go in *release > sd-card > 3ds* and copy the **mkw-3ds** folder into the 3ds folder on your SD card.
 > When done go back to the **build** folder and go back to **release** and cope the *mkw-3ds.cia* file to the root of your sd card.
