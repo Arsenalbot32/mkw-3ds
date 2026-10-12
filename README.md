@@ -6,7 +6,7 @@ Hi everyone, let's get this game on 3DS after the original port got deleted and 
 > 1. **A jailbroken 3DS** (If you don't have one go to [3ds.hacks.guide](https://3ds.hacks.guide/get-started.html) .
 > 2. **A computer that support you SD or micro sd card.**
 > 
-> First step to get this game on 3DS you need to get the resource files from these link :
+> First step to get this game on 3DS you need to get the resource files from one of these link :
 > 1. https://drive.google.com/file/d/1KeVDpr7s7EJARDvHwaQAETQ9BDNCk03h/view?usp=sharing
 > 2. https://drive.google.com/file/d/1DRtz0M7glbOa_F1vTJxCGNOg7PRbGPkI/view?usp=sharing
 > 3. https://drive.google.com/file/d/1CbpfRDrUBmo5xa2E0AbLrSgjxcaxXe0V/view?usp=sharing
